@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="testing table" max_length="40" name="x_58872_needit_testing_table" sizeclass="2" type="collection">
+        <element default="You can  Enter your Name here" display="true" label="Name" max_length="10" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="test configure value" max_length="40" name="test_configure_value" type="string"/>
+    </element>
+</database>
